@@ -1,7 +1,7 @@
 # Windows-basic-commands-batchscript
 Ex08-Windows-basic-commands-batchscript
-### NAME: KEERTHANA.V
-### REGISTER NUMBER: 212223220045
+### NAME: DAPPILI VASAVI
+### REGISTER NUMBER: 212223040030
 
 # AIM:
 To execute Windows basic commands and batch scripting
